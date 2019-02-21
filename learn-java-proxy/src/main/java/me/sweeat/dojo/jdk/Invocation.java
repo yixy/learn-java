@@ -1,4 +1,4 @@
-package me.sweeat.dojo;
+package me.sweeat.dojo.jdk;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;
